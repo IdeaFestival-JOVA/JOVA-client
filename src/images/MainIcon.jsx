@@ -1,4 +1,3 @@
-import styled from 'styled-components';
 import mainLogo from 'C:/Users/user/Desktop/jova-client/src/images/image/mainLogo.png'
 
 const MainIcon = () => (
