@@ -1,13 +1,11 @@
-import styled from "styled-components";
-
-const Text = styled.h1`
-    
-`
+import Header from "../../components/Header";
+import NotionBody from "./NotionBody";
 
 function Notion(){
     return(
         <>
-
+            <Header />
+            <NotionBody />
         </>
     )
 }
